@@ -23,7 +23,7 @@ div {
     color: white;
     text-align: left;
     font-size: 12px;
-    border-style: dotted;
+    border-style: dotted 2px;
     border-width: 100px 100px;
 
   }
