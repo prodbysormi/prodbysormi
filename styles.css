@@ -19,6 +19,18 @@ body {
     font-size: 12px;
 }
 
+#border {
+    width: 200px;
+    height: 100px;
+    background: yellow;
+    text-align: center;
+    line-height: 100px;
+    background: linear-gradient(to right, orange 50%, rgba(255, 255, 255, 0) 0%), linear-gradient(blue 50%, rgba(255, 255, 255, 0) 0%), linear-gradient(to right, green 50%, rgba(255, 255, 255, 0) 0%), linear-gradient(red 50%, rgba(255, 255, 255, 0) 0%);
+    background-position: top, right, bottom, left;
+    background-repeat: repeat-x, repeat-y;
+    background-size: 10px 1px, 1px 10px;
+  }
+
 div {
     border: dotted 2px;
     border-width: 100px 100px;
