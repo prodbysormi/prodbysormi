@@ -3,6 +3,7 @@
 
 body {
     background-color: black;
+    text-emphasis-color: white;
   }
   
   h1 {
@@ -13,12 +14,13 @@ body {
   
   p {
     color: green;  
+    text-align: center;
     font-family: verdana;
     font-size: 12px;
 }
 
 div {
     color: green;
-    text-align: justify;
+    text-align: center;
     font-size: 12px;
   }
