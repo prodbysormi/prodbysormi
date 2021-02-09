@@ -2,7 +2,8 @@
 /* CSS Document */
 
 body {
-    background-color: black;
+    background: black;
+    color: white;
   }
   
   h1 {
@@ -26,4 +27,3 @@ div {
     border-width: 100px 100px;
 
   }
-
