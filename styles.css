@@ -19,7 +19,7 @@ body {
     font-size: 12px;
 }
 
-div {
+.div {
     border-style: dotted 2px;
     border-width: 100px 100px;
     color: white;
