@@ -19,9 +19,11 @@ body {
 }
 
 div {
-    text-align: justify;
+    color: white;
+    text-align: left;
     font-size: 12px;
     border-style: dotted;
     border-width: 100px 100px;
 
   }
+
