@@ -19,13 +19,14 @@ body {
     font-size: 12px;
 }
 
-.border {
+.laatikko {
     border-style: dotted;
-    border: 2px;
-    border-width: 100px 100px;
+    border-width: 100px;
+    margin: 2px;
     color: white;
     text-align: left;
     font-size: 12px;
 
   }
+
 
