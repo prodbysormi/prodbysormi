@@ -3,7 +3,6 @@
 
 body {
     background-color: black;
-    text-emphasis-color: white;
   }
   
   h1 {
@@ -20,7 +19,9 @@ body {
 }
 
 div {
-    color: green;
-    text-align: center;
+    text-align: justify;
     font-size: 12px;
+    border-style: dotted;
+    border-width: 100px 100px;
+
   }
