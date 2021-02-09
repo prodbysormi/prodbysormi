@@ -20,10 +20,12 @@ body {
 }
 
 .border {
-    border: dotted 2px;
+    border-style: dotted;
+    border: 2px;
     border-width: 100px 100px;
     color: white;
     text-align: left;
     font-size: 12px;
 
   }
+
