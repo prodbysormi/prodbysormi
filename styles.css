@@ -19,8 +19,8 @@ body {
     font-size: 12px;
 }
 
-.div {
-    border-style: dotted 2px;
+.border {
+    border: dotted 2px;
     border-width: 100px 100px;
     color: white;
     text-align: left;
